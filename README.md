@@ -1,6 +1,6 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Imran 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <p align="center">Hi, I'm Imran>/p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Founder+of+Immersicloud;Full-Stack+Web+Developer;AWS+Cloud+Practitioner;Building+Modern+Digital+Experiences;Web3+and+Blockchain+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Founder+of+Immersicloud;Full-Stack+Web+Developer;AWS+Solutions+Architect;Building+Modern+Digital+Experiences;Web3+and+Blockchain+Enthusiast" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Morpheous-cain&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
