@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Imran Issa
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Imran 
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Founder+of+Immersicloud;Full-Stack+Web+Developer;AWS+Cloud+Practitioner;Building+Modern+Digital+Experiences;Web3+and+Blockchain+Enthusiast" alt="Typing SVG" />
 
@@ -12,7 +12,7 @@
 
 ```yaml
 Name: Imran Issa
-Company: Immersicloud
+Company: Immersicloud Consulting
 Role: Founder & Full-Stack Developer
 Location: Kenya 🇰🇪
 Focus:
@@ -22,7 +22,8 @@ Focus:
   - AI-Powered Solutions
   - Web3 Applications
 Certification:
-  - AWS Cloud Practitioner
+  - AWS Cloud Practitioner  - AWS Solutions Architect
+
 ```
 
 I'm passionate about building scalable digital products that help businesses grow online. Through **Immersicloud**, I design and develop high-performance websites, web applications, e-commerce platforms, and cloud solutions that deliver measurable results.
@@ -81,14 +82,6 @@ I'm passionate about building scalable digital products that help businesses gro
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
-
----
-
 ## 🔥 Featured Expertise
 
 ### 🌐 Custom Website Development
@@ -110,14 +103,6 @@ Integrating AI workflows, automation, and intelligent user experiences into web 
 ### ⛓️ Web3 Solutions
 
 Exploring decentralized applications and blockchain-powered products.
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 
@@ -151,6 +136,6 @@ Exploring decentralized applications and blockchain-powered products.
 
 ### 💡 "Building digital experiences that create real business impact."
 
-**Founder @ Immersicloud**
+**Founder @ Immersicloud Consulting**
 
 </div>
